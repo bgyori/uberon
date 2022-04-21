@@ -1,0 +1,281 @@
+uberon_id,uberon_name,old_mapping,method,new_mapping,new_mapping_name,new_mapping_url
+UBERON:0000059,large intestine,A03.492.411.495,gilda,D007420,"Intestine, Large",https://bioregistry.io/mesh:D007420
+UBERON:0000085,morula,A16.254.270.550,gilda,D009028,Morula,https://bioregistry.io/mesh:D009028
+UBERON:0000088,trophoblast,A11.936,gilda,D014327,Trophoblasts,https://bioregistry.io/mesh:D014327
+UBERON:0000107,cleavage stage,A16.254.270,,,,
+UBERON:0000160,intestine,A03.492.411,gilda,D007422,Intestines,https://bioregistry.io/mesh:D007422
+UBERON:0000305,amnion,A16.254.403.277,gilda,D000650,Amnion,https://bioregistry.io/mesh:D000650
+UBERON:0000307,blastula,A16.254.270.274,gilda,D036703,Blastula,https://bioregistry.io/mesh:D036703
+UBERON:0000349,limbic system,A08.186.211.577,gilda,D008032,Limbic System,https://bioregistry.io/mesh:D008032
+UBERON:0000358,blastocyst,A16.254.085,gilda,D001755,Blastocyst,https://bioregistry.io/mesh:D001755
+UBERON:0000369,corpus striatum,A08.186.211.730.885.105.487,gilda,D003342,Corpus Striatum,https://bioregistry.io/mesh:D003342
+UBERON:0000388,epiglottis,A02.165.507.411,gilda,D004825,Epiglottis,https://bioregistry.io/mesh:D004825
+UBERON:0000389,lens cortex,A09.371.509.225,,,,
+UBERON:0000390,lens nucleus,A09.371.509.670,,,,
+UBERON:0000411,visual cortex,A08.186.211.730.885.213.571.735,gilda,D014793,Visual Cortex,https://bioregistry.io/mesh:D014793
+UBERON:0000432,endopeduncular nucleus,A08.186.211.730.385.800.240,gilda,D020392,Entopeduncular Nucleus,https://bioregistry.io/mesh:D020392
+UBERON:0000446,septum of telencephalon,A08.186.211.577.750,,,,
+UBERON:0000451,prefrontal cortex,A08.186.211.730.885.213.270.700,gilda,D017397,Prefrontal Cortex,https://bioregistry.io/mesh:D017397
+UBERON:0000911,chyle,A12.207.630.350,gilda,D002913,Chyle,https://bioregistry.io/mesh:D002913
+UBERON:0000916,abdomen,A01.047,gilda,D000005,Abdomen,https://bioregistry.io/mesh:D000005
+UBERON:0000923,germ layer,A16.254.425,gilda,D005855,Germ Layers,https://bioregistry.io/mesh:D005855
+UBERON:0000924,ectoderm,A16.254.425.273,gilda,D004475,Ectoderm,https://bioregistry.io/mesh:D004475
+UBERON:0000925,endoderm,A16.254.425.407,gilda,D004707,Endoderm,https://bioregistry.io/mesh:D004707
+UBERON:0000926,mesoderm,A16.254.425.660,gilda,D008648,Mesoderm,https://bioregistry.io/mesh:D008648
+UBERON:0000945,stomach,A03.492.766,gilda,D013270,Stomach,https://bioregistry.io/mesh:D013270
+UBERON:0000956,cerebral cortex,A08.186.211.730.885.213,gilda,D002540,Cerebral Cortex,https://bioregistry.io/mesh:D002540
+UBERON:0000965,lens of camera-type eye,A09.371.509,,,,
+UBERON:0000976,humerus,A02.835.232.087.412,gilda,D006811,Humerus,https://bioregistry.io/mesh:D006811
+UBERON:0000979,tibia,A02.835.232.500.883,gilda,D013977,Tibia,https://bioregistry.io/mesh:D013977
+UBERON:0000981,femur,A02.835.232.500.247,gilda,D005269,Femur,https://bioregistry.io/mesh:D005269
+UBERON:0001040,yolk sac,A16.254.403.981,gilda,D015017,Yolk Sac,https://bioregistry.io/mesh:D015017
+UBERON:0001042,chordate pharynx,A03.867,,,,
+UBERON:0001043,esophagus,A03.365,gilda,D004947,Esophagus,https://bioregistry.io/mesh:D004947
+UBERON:0001051,hypopharynx,A03.867.490,gilda,D007013,Hypopharynx,https://bioregistry.io/mesh:D007013
+UBERON:0001052,rectum,A03.492.411.495.767,gilda,D012007,Rectum,https://bioregistry.io/mesh:D012007
+UBERON:0001066,intervertebral disk,A02.165.410,gilda,D007403,Intervertebral Disc,https://bioregistry.io/mesh:D007403
+UBERON:0001091,calcareous tooth,A14.254.860,,,,
+UBERON:0001092,vertebral bone 1,A02.835.232.834.151.213,,,,
+UBERON:0001098,incisor tooth,A14.254.860.425,,,,
+UBERON:0001137,dorsum,A01.176,,,,
+UBERON:0001152,cystic duct,A03.159.183.419,gilda,D003549,Cystic Duct,https://bioregistry.io/mesh:D003549
+UBERON:0001153,caecum,A03.492.411.495.209,,,,
+UBERON:0001154,vermiform appendix,A03.492.411.495.209.290,gilda,D001065,Appendix,https://bioregistry.io/mesh:D001065
+UBERON:0001155,colon,A03.492.411.495.356,gilda,D003106,Colon,https://bioregistry.io/mesh:D003106
+UBERON:0001159,sigmoid colon,A03.492.411.495.356.668,gilda,D012809,"Colon, Sigmoid",https://bioregistry.io/mesh:D012809
+UBERON:0001160,fundus of stomach,A03.492.766.419,,,,
+UBERON:0001162,cardia of stomach,A03.492.766.163,,,,
+UBERON:0001165,pyloric antrum,A03.492.766.716,gilda,D011706,Pyloric Antrum,https://bioregistry.io/mesh:D011706
+UBERON:0001166,pylorus,A03.492.766.799,gilda,D011708,Pylorus,https://bioregistry.io/mesh:D011708
+UBERON:0001179,peritoneal cavity,A01.047.025.600.678,gilda,D010529,Peritoneal Cavity,https://bioregistry.io/mesh:D010529
+UBERON:0001199,mucosa of stomach,A03.492.766.440,,,,
+UBERON:0001211,Peyer's patch,A10.549.598,,,,
+UBERON:0001212,duodenal gland,A03.492.411.620.270.322,,,,
+UBERON:0001242,intestinal mucosa,A03.492.411.369,gilda,D007413,Intestinal Mucosa,https://bioregistry.io/mesh:D007413
+UBERON:0001245,anus,A03.492.411.495.767.288,,,,
+UBERON:0001255,urinary bladder,A05.810.161,gilda,D001743,Urinary Bladder,https://bioregistry.io/mesh:D001743
+UBERON:0001269,acetabular part of hip bone,A02.835.232.611.108,,,,
+UBERON:0001272,innominate bone,A02.835.232.611,,,,
+UBERON:0001273,ilium,A02.835.232.611.434,gilda,D007085,Ilium,https://bioregistry.io/mesh:D007085
+UBERON:0001274,ischium,A02.835.232.611.548,gilda,D007512,Ischium,https://bioregistry.io/mesh:D007512
+UBERON:0001275,pubis,A02.835.232.611.781,gilda,D011630,Pubic Bone,https://bioregistry.io/mesh:D011630
+UBERON:0001301,epididymis,A05.360.444.849.286,gilda,D004822,Epididymis,https://bioregistry.io/mesh:D004822
+UBERON:0001359,cerebrospinal fluid,A12.207.268,gilda,D002555,Cerebrospinal Fluid,https://bioregistry.io/mesh:D002555
+UBERON:0001384,primary motor cortex,A08.186.211.730.885.213.270.548,,,,
+UBERON:0001393,auditory cortex,A08.186.211.730.885.213.863.297,gilda,D001303,Auditory Cortex,https://bioregistry.io/mesh:D001303
+UBERON:0001423,radius bone,A02.835.232.087.702,,,,
+UBERON:0001424,ulna,A02.835.232.087.911,gilda,D014457,Ulna,https://bioregistry.io/mesh:D014457
+UBERON:0001427,radiale,A02.835.232.087.144.650,,,,
+UBERON:0001428,intermedium,A02.835.232.087.144.663,,,,
+UBERON:0001435,carpal bone,A02.835.232.087.144,gilda,D002348,Carpal Bones,https://bioregistry.io/mesh:D002348
+UBERON:0001443,chest,A01.911,gilda,D013909,Thorax,https://bioregistry.io/mesh:D013909
+UBERON:0001446,fibula,A02.835.232.500.321,gilda,D005360,Fibula,https://bioregistry.io/mesh:D005360
+UBERON:0001447,tarsal bone,A02.835.232.300.710,gilda,D013639,Tarsal Bones,https://bioregistry.io/mesh:D013639
+UBERON:0001448,metatarsal bone,A02.835.232.300.492,gilda,D008682,Metatarsal Bones,https://bioregistry.io/mesh:D008682
+UBERON:0001450,calcaneus,A02.835.232.300.710.300,gilda,D002111,Calcaneus,https://bioregistry.io/mesh:D002111
+UBERON:0001460,arm,A01.378.800,tree,D034941,Upper Extremity,https://bioregistry.io/mesh:D034941
+UBERON:0001491,wrist joint,A02.835.583.959,gilda,D014955,Wrist Joint,https://bioregistry.io/mesh:D014955
+UBERON:0001629,carotid body,A08.800.550.700.120.600.150,gilda,D002344,Carotid Body,https://bioregistry.io/mesh:D002344
+UBERON:0001631,thoracic duct,A15.382.520.869,gilda,D013897,Thoracic Duct,https://bioregistry.io/mesh:D013897
+UBERON:0001706,nasal septum,A02.165.639,gilda,D009300,Nasal Septum,https://bioregistry.io/mesh:D009300
+UBERON:0001727,taste bud,A08.800.550.700.120.800,gilda,D013650,Taste Buds,https://bioregistry.io/mesh:D013650
+UBERON:0001728,nasopharynx,A03.867.557,gilda,D009305,Nasopharynx,https://bioregistry.io/mesh:D009305
+UBERON:0001729,oropharynx,A03.867.603,gilda,D009960,Oropharynx,https://bioregistry.io/mesh:D009960
+UBERON:0001732,pharyngeal tonsil,A15.382.520.604.084,gilda,D000234,Adenoids,https://bioregistry.io/mesh:D000234
+UBERON:0001738,thyroid cartilage,A02.165.507.870,gilda,D013957,Thyroid Cartilage,https://bioregistry.io/mesh:D013957
+UBERON:0001739,laryngeal cartilage,A02.165.507,gilda,D007817,Laryngeal Cartilages,https://bioregistry.io/mesh:D007817
+UBERON:0001740,arytenoid cartilage,A02.165.507.083,gilda,D001193,Arytenoid Cartilage,https://bioregistry.io/mesh:D001193
+UBERON:0001751,dentine,A14.254.900.280,gilda,D003804,Dentin,https://bioregistry.io/mesh:D003804
+UBERON:0001752,enamel,A14.254.900.255,gilda,D003743,Dental Enamel,https://bioregistry.io/mesh:D003743
+UBERON:0001753,cementum,A14.254.646.267,gilda,D003739,Dental Cementum,https://bioregistry.io/mesh:D003739
+UBERON:0001754,dental pulp,A14.254.900.260,gilda,D003782,Dental Pulp,https://bioregistry.io/mesh:D003782
+UBERON:0001758,periodontium,A14.254.646,gilda,D010519,Periodontium,https://bioregistry.io/mesh:D010519
+UBERON:0001763,odontogenic papilla,A14.254.900.720.250,,,,
+UBERON:0001798,vitreous body,A09.371.943,gilda,D014822,Vitreous Body,https://bioregistry.io/mesh:D014822
+UBERON:0001811,conjunctiva,A09.371.192,gilda,D003228,Conjunctiva,https://bioregistry.io/mesh:D003228
+UBERON:0001828,gingiva,A14.254.646.480,gilda,D005881,Gingiva,https://bioregistry.io/mesh:D005881
+UBERON:0001845,perilymph,A12.207.571.678,gilda,D010498,Perilymph,https://bioregistry.io/mesh:D010498
+UBERON:0001852,endolymph,A12.207.571.324,gilda,D004710,Endolymph,https://bioregistry.io/mesh:D004710
+UBERON:0001867,cartilage of external ear,A02.165.207,,,,
+UBERON:0001871,temporal lobe,A08.186.211.730.885.213.863,gilda,D013702,Temporal Lobe,https://bioregistry.io/mesh:D013702
+UBERON:0001872,parietal lobe,A08.186.211.730.885.213.670,gilda,D010296,Parietal Lobe,https://bioregistry.io/mesh:D010296
+UBERON:0001873,caudate nucleus,A08.186.211.730.885.105.487.550.184,gilda,D002421,Caudate Nucleus,https://bioregistry.io/mesh:D002421
+UBERON:0001874,putamen,A08.186.211.730.885.105.487.550.784,gilda,D011699,Putamen,https://bioregistry.io/mesh:D011699
+UBERON:0001875,globus pallidus,A08.186.211.730.885.105.487.397,gilda,D005917,Globus Pallidus,https://bioregistry.io/mesh:D005917
+UBERON:0001876,amygdala,A08.186.211.577.090,gilda,D000679,Amygdala,https://bioregistry.io/mesh:D000679
+UBERON:0001881,island of Calleja,A08.186.211.577.699.400,,,,
+UBERON:0001882,nucleus accumbens,A08.186.211.730.885.105.683,gilda,D009714,Nucleus Accumbens,https://bioregistry.io/mesh:D009714
+UBERON:0001885,dentate gyrus of hippocampal formation,A08.186.211.577.405.200,,,,
+UBERON:0001894,diencephalon,A08.186.211.730.385,gilda,D004027,Diencephalon,https://bioregistry.io/mesh:D004027
+UBERON:0001897,dorsal plus ventral thalamus,A08.186.211.730.385.826,,,,
+UBERON:0001898,hypothalamus,A08.186.211.577.482,gilda,D007031,Hypothalamus,https://bioregistry.io/mesh:D007031
+UBERON:0001899,epithalamus,A08.186.211.577.200,gilda,D019261,Epithalamus,https://bioregistry.io/mesh:D019261
+UBERON:0001900,ventral thalamus,A08.186.211.730.385.800,,,,
+UBERON:0001904,habenula,A08.186.211.577.200.360,gilda,D019262,Habenula,https://bioregistry.io/mesh:D019262
+UBERON:0001906,subthalamic nucleus,A08.186.211.730.385.800.800,gilda,D020531,Subthalamic Nucleus,https://bioregistry.io/mesh:D020531
+UBERON:0001913,milk,A13.622,gilda,D008892,Milk,https://bioregistry.io/mesh:D008892
+UBERON:0001928,preoptic area,A08.186.211.730.385.357.342.450,gilda,D011301,Preoptic Area,https://bioregistry.io/mesh:D011301
+UBERON:0001929,supraoptic nucleus,A08.186.211.730.385.357.342.650,gilda,D013495,Supraoptic Nucleus,https://bioregistry.io/mesh:D013495
+UBERON:0001930,paraventricular nucleus of hypothalamus,A08.186.211.730.385.357.342.400,,,,
+UBERON:0001932,arcuate nucleus of hypothalamus,A08.186.211.730.385.357.352.081,gilda,D001111,Arcuate Nucleus of Hypothalamus,https://bioregistry.io/mesh:D001111
+UBERON:0001934,dorsomedial nucleus of hypothalamus,A08.186.211.730.385.357.352.270,,,,
+UBERON:0001935,ventromedial nucleus of hypothalamus,A08.186.211.730.385.357.352.953,,,,
+UBERON:0001945,superior colliculus,A08.186.211.132.659.237.816,gilda,D013477,Superior Colliculi,https://bioregistry.io/mesh:D013477
+UBERON:0001946,inferior colliculus,A08.186.211.132.659.237.364,gilda,D007245,Inferior Colliculi,https://bioregistry.io/mesh:D007245
+UBERON:0001947,red nucleus,A08.186.211.132.659.822.642,gilda,D012012,Red Nucleus,https://bioregistry.io/mesh:D012012
+UBERON:0001950,neocortex,A08.186.211.730.885.213.420,gilda,D019579,Neocortex,https://bioregistry.io/mesh:D019579
+UBERON:0001954,Ammon's horn,A08.186.211.577.405,gilda,D006624,Hippocampus,https://bioregistry.io/mesh:D006624
+UBERON:0001979,venule,A07.231.432.952,gilda,D014699,Venules,https://bioregistry.io/mesh:D014699
+UBERON:0001982,capillary,A07.231.432.410,gilda,D002196,Capillaries,https://bioregistry.io/mesh:D002196
+UBERON:0001987,placenta,A16.759,gilda,D010920,Placenta,https://bioregistry.io/mesh:D010920
+UBERON:0002021,occipital lobe,A08.186.211.730.885.213.571,gilda,D009778,Occipital Lobe,https://bioregistry.io/mesh:D009778
+UBERON:0002034,suprachiasmatic nucleus,A08.186.211.730.385.357.342.625,gilda,D013493,Suprachiasmatic Nucleus,https://bioregistry.io/mesh:D013493
+UBERON:0002038,substantia nigra,A08.186.211.132.659.687,gilda,D013378,Substantia Nigra,https://bioregistry.io/mesh:D013378
+UBERON:0002068,urachus,A16.254.835,gilda,D014497,Urachus,https://bioregistry.io/mesh:D014497
+UBERON:0002095,mesentery,A01.047.025.600.451,gilda,D008643,Mesentery,https://bioregistry.io/mesh:D008643
+UBERON:0002106,spleen,A15.382.520.604.713,gilda,D013154,Spleen,https://bioregistry.io/mesh:D013154
+UBERON:0002108,small intestine,A03.492.411.620,gilda,D007421,"Intestine, Small",https://bioregistry.io/mesh:D007421
+UBERON:0002114,duodenum,A03.492.411.620.270,gilda,D004386,Duodenum,https://bioregistry.io/mesh:D004386
+UBERON:0002115,jejunum,A03.492.411.620.625,gilda,D007583,Jejunum,https://bioregistry.io/mesh:D007583
+UBERON:0002116,ileum,A03.492.411.620.484,gilda,D007082,Ileum,https://bioregistry.io/mesh:D007082
+UBERON:0002139,subcommissural organ,A08.713.810,gilda,D013351,Subcommissural Organ,https://bioregistry.io/mesh:D013351
+UBERON:0002181,substantia gelatinosa,A08.186.854.610.800,gilda,D013376,Substantia Gelatinosa,https://bioregistry.io/mesh:D013376
+UBERON:0002196,adenohypophysis,A06.407.747.608,gilda,D010903,"Pituitary Gland, Anterior",https://bioregistry.io/mesh:D010903
+UBERON:0002197,median eminence of neurohypophysis,A06.407.747.734.500,,,,
+UBERON:0002198,neurohypophysis,A06.407.747.734,gilda,D010904,"Pituitary Gland, Posterior",https://bioregistry.io/mesh:D010904
+UBERON:0002206,mammillary body,A08.186.211.730.385.357.362.500,gilda,D008326,Mammillary Bodies,https://bioregistry.io/mesh:D008326
+UBERON:0002219,subfornical organ,A08.713.840,gilda,D013356,Subfornical Organ,https://bioregistry.io/mesh:D013356
+UBERON:0002224,thoracic cavity,A01.911.800,gilda,D035423,Thoracic Cavity,https://bioregistry.io/mesh:D035423
+UBERON:0002233,tectorial membrane of cochlea,A09.246.631.246.292.906,,,,
+UBERON:0002255,vomeronasal organ,A04.531.591.940,gilda,D019147,Vomeronasal Organ,https://bioregistry.io/mesh:D019147
+UBERON:0002259,corpora quadrigemina,A08.186.211.132.659.237,,,,
+UBERON:0002264,olfactory bulb,A08.186.211.577.699.573,gilda,D009830,Olfactory Bulb,https://bioregistry.io/mesh:D009830
+UBERON:0002289,midbrain cerebral aqueduct,A08.186.211.132.659.822.187,,,,
+UBERON:0002320,glomerular mesangium,A05.810.453.736.520.380,gilda,D005920,Glomerular Mesangium,https://bioregistry.io/mesh:D005920
+UBERON:0002328,notochord,A16.254.610,gilda,D009672,Notochord,https://bioregistry.io/mesh:D009672
+UBERON:0002329,somite,A16.254.425.660.750,gilda,D019170,Somites,https://bioregistry.io/mesh:D019170
+UBERON:0002331,umbilical cord,A16.254.789,gilda,D014470,Umbilical Cord,https://bioregistry.io/mesh:D014470
+UBERON:0002336,corpus callosum,A08.186.211.730.885.362,gilda,D003337,Corpus Callosum,https://bioregistry.io/mesh:D003337
+UBERON:0002342,neural crest,A16.254.600,gilda,D009432,Neural Crest,https://bioregistry.io/mesh:D009432
+UBERON:0002355,pelvic region of trunk,A01.673,,,,
+UBERON:0002358,peritoneum,A01.047.025.600,gilda,D010537,Peritoneum,https://bioregistry.io/mesh:D010537
+UBERON:0002364,tympanic membrane,A09.246.397.873,gilda,D014432,Tympanic Membrane,https://bioregistry.io/mesh:D014432
+UBERON:0002370,thymus,A06.407.850,gilda,D013950,Thymus Gland,https://bioregistry.io/mesh:D013950
+UBERON:0002372,tonsil,A03.867.603.925,gilda,D014066,Palatine Tonsil,https://bioregistry.io/mesh:D014066
+UBERON:0002375,cricoid cartilage,A02.165.507.211,gilda,D003413,Cricoid Cartilage,https://bioregistry.io/mesh:D003413
+UBERON:0002391,lymph,A12.207.630,gilda,D008196,Lymph,https://bioregistry.io/mesh:D008196
+UBERON:0002395,talus,A02.835.232.300.710.780,gilda,D013628,Talus,https://bioregistry.io/mesh:D013628
+UBERON:0002402,pleural cavity,A01.911.800.650,gilda,D035422,Pleural Cavity,https://bioregistry.io/mesh:D035422
+UBERON:0002430,lateral hypothalamic area,A08.186.211.730.385.357.300,gilda,D007026,"Hypothalamic Area, Lateral",https://bioregistry.io/mesh:D007026
+UBERON:0002435,striatum,A08.186.211.730.885.105.487.550,,,,
+UBERON:0002446,patella,A02.835.232.500.624,gilda,D010329,Patella,https://bioregistry.io/mesh:D010329
+UBERON:0002487,tooth cavity,A14.254.900.265,,,,
+UBERON:0002539,pharyngeal arch,A16.254.160,,,,
+UBERON:0002550,anterior hypothalamic region,A08.186.211.730.385.357.342,,,,
+UBERON:0002555,intermediate hypothalamic region,A08.186.211.730.385.357.352,gilda,D007033,"Hypothalamus, Middle",https://bioregistry.io/mesh:D007033
+UBERON:0002620,tuber cinereum,A08.186.211.730.385.357.352.870,gilda,D014371,Tuber Cinereum,https://bioregistry.io/mesh:D014371
+UBERON:0002634,anterior nucleus of hypothalamus,A08.186.211.730.385.357.342.063,,,,
+UBERON:0002663,septal nuclear complex,A08.186.211.577.750.800,gilda,D012686,Septal Nuclei,https://bioregistry.io/mesh:D012686
+UBERON:0002691,ventral tegmental area,A08.186.211.132.659.822.820,gilda,D017557,Ventral Tegmental Area,https://bioregistry.io/mesh:D017557
+UBERON:0002728,entorhinal cortex,A08.186.211.577.710.225,gilda,D018728,Entorhinal Cortex,https://bioregistry.io/mesh:D018728
+UBERON:0002733,intralaminar nuclear group,A08.186.211.730.385.826.701.460,gilda,D020646,Intralaminar Thalamic Nuclei,https://bioregistry.io/mesh:D020646
+UBERON:0002736,lateral nuclear group of thalamus,A08.186.211.730.385.826.701.485,,,,
+UBERON:0002739,medial dorsal nucleus of thalamus,A08.186.211.730.385.826.701.490,,,,
+UBERON:0002770,posterior hypothalamic region,A08.186.211.730.385.357.362,gilda,D007034,"Hypothalamus, Posterior",https://bioregistry.io/mesh:D007034
+UBERON:0002788,anterior nuclear group,A08.186.211.730.385.826.701.080,gilda,D020643,Anterior Thalamic Nuclei,https://bioregistry.io/mesh:D020643
+UBERON:0002973,parahippocampal gyrus,A08.186.211.577.710,gilda,D020534,Parahippocampal Gyrus,https://bioregistry.io/mesh:D020534
+UBERON:0002981,pulvinar nucleus,A08.186.211.730.385.826.701.485.600,gilda,D020649,Pulvinar,https://bioregistry.io/mesh:D020649
+UBERON:0003017,substantia innominata,A08.186.211.577.820,gilda,D013377,Substantia Innominata,https://bioregistry.io/mesh:D013377
+UBERON:0003040,central gray substance of midbrain,A08.186.211.132.659.822.595,gilda,D010487,Periaqueductal Gray,https://bioregistry.io/mesh:D010487
+UBERON:0003062,primitive knot,A16.254.650,,,,
+UBERON:0003074,mesonephric duct,A16.254.940,gilda,D014928,Wolffian Ducts,https://bioregistry.io/mesh:D014928
+UBERON:0003124,chorion membrane,A16.254.403.473,,,,
+UBERON:0003125,vitelline membrane,A16.631.886,gilda,D014817,Vitelline Membrane,https://bioregistry.io/mesh:D014817
+UBERON:0003483,thymus lymphoid tissue,A06.407.850,,,,
+UBERON:0003655,molar tooth,A14.254.860.525,,,,
+UBERON:0003672,dentition,A14.254,gilda,D003817,Dentition,https://bioregistry.io/mesh:D003817
+UBERON:0003674,cuspid,A14.254.860.200,gilda,D003481,Cuspid,https://bioregistry.io/mesh:D003481
+UBERON:0003675,tooth crown,A14.254.900.710,gilda,D019228,Tooth Crown,https://bioregistry.io/mesh:D019228
+UBERON:0003677,tooth root,A14.254.900.750,gilda,D014092,Tooth Root,https://bioregistry.io/mesh:D014092
+UBERON:0003678,tooth apex,A14.254.900.750.700,gilda,D019227,Tooth Apex,https://bioregistry.io/mesh:D019227
+UBERON:0003684,abdominal cavity,A01.047.025,gilda,D034841,Abdominal Cavity,https://bioregistry.io/mesh:D034841
+UBERON:0003688,omentum,A01.047.025.600.573,gilda,D009852,Omentum,https://bioregistry.io/mesh:D009852
+UBERON:0003693,retroperitoneal space,A01.047.025.750,gilda,D012187,Retroperitoneal Space,https://bioregistry.io/mesh:D012187
+UBERON:0003695,metacarpophalangeal joint,A02.835.583.345.512,gilda,D008662,Metacarpophalangeal Joint,https://bioregistry.io/mesh:D008662
+UBERON:0003697,abdominal wall,A01.047.050,gilda,D034861,Abdominal Wall,https://bioregistry.io/mesh:D034861
+UBERON:0003702,inguinal canal,A01.047.412,gilda,D007264,Inguinal Canal,https://bioregistry.io/mesh:D007264
+UBERON:0003705,Meckel's diverticulum,A03.492.411.620.484.612,gilda,D008467,Meckel Diverticulum,https://bioregistry.io/mesh:D008467
+UBERON:0003718,muscle spindle,A08.800.550.700.500.500,gilda,D009470,Muscle Spindles,https://bioregistry.io/mesh:D009470
+UBERON:0003719,Pacinian corpuscle,A08.800.550.700.500.300,,,,
+UBERON:0003728,mediastinum,A01.911.800.500,gilda,D008482,Mediastinum,https://bioregistry.io/mesh:D008482
+UBERON:0003890,Mullerian duct,A16.254.570,gilda,D009095,Mullerian Ducts,https://bioregistry.io/mesh:D009095
+UBERON:0004340,allantois,A16.254.403.147,gilda,D000482,Allantois,https://bioregistry.io/mesh:D000482
+UBERON:0004347,limb bud,A16.254.462,gilda,D018878,Limb Buds,https://bioregistry.io/mesh:D018878
+UBERON:0004454,tarsal region,A01.378.610.250.149,,,,
+UBERON:0004684,raphe nuclei,A08.186.211.132.659.632,gilda,D011903,Raphe Nuclei,https://bioregistry.io/mesh:D011903
+UBERON:0004734,gastrula,A16.254.412,gilda,D005775,Gastrula,https://bioregistry.io/mesh:D005775
+UBERON:0004750,blastoderm,A16.254.085.067,gilda,D001756,Blastoderm,https://bioregistry.io/mesh:D001756
+UBERON:0004913,hepatopancreatic ampulla,A03.159.183.079.300.900,gilda,D014670,Ampulla of Vater,https://bioregistry.io/mesh:D014670
+UBERON:0004915,sphincter of hepatopancreatic ampulla,A03.159.183.079.300.900.600,,,,
+UBERON:0005176,tooth enamel organ,A14.254.900.720.265,,,,
+UBERON:0005409,alimentary part of gastrointestinal system,A03.492,,,,
+UBERON:0005630,fetal membrane,A16.254.403,,,,
+UBERON:0005893,leg bone,A02.835.232.500,gilda,D007867,Leg Bones,https://bioregistry.io/mesh:D007867
+UBERON:0005899,pes bone,A02.835.232.300,,,,
+UBERON:0006134,nerve fiber,A08.663.542,,,,
+UBERON:0006135,myelinated nerve fiber,A08.663.542.512,gilda,D009413,"Nerve Fibers, Myelinated",https://bioregistry.io/mesh:D009413
+UBERON:0006136,unmyelinated nerve fiber,A08.663.542.756,gilda,D036421,"Nerve Fibers, Unmyelinated",https://bioregistry.io/mesh:D036421
+UBERON:0006586,otolymph,A12.207.571,,,,
+UBERON:0006767,head of femur,A02.835.232.500.247.343,,,,
+UBERON:0007105,vitelline duct,A16.254.891,gilda,D014816,Vitelline Duct,https://bioregistry.io/mesh:D014816
+UBERON:0007106,chorionic villus,A16.254.403.473.200,gilda,D002824,Chorionic Villi,https://bioregistry.io/mesh:D002824
+UBERON:0007111,Douglas' pouch,A01.047.025.600.225,gilda,D004312,Douglas' Pouch,https://bioregistry.io/mesh:D004312
+UBERON:0007115,deciduous tooth,A14.254.860.700,gilda,D014094,"Tooth, Deciduous",https://bioregistry.io/mesh:D014094
+UBERON:0007116,primary dentition,A14.254.245,gilda,D014094,"Tooth, Deciduous",https://bioregistry.io/mesh:D014094
+UBERON:0007118,umbilicus,A01.047.849,gilda,D014472,Umbilicus,https://bioregistry.io/mesh:D014472
+UBERON:0007119,neck of femur,A02.835.232.500.247.510,,,,
+UBERON:0007120,premolar tooth,A14.254.860.150,,,,
+UBERON:0007378,egg yolk,A16.631.325,gilda,D004530,Egg Yolk,https://bioregistry.io/mesh:D004530
+UBERON:0007650,esophagogastric junction,A03.365.414,gilda,D004943,Esophagogastric Junction,https://bioregistry.io/mesh:D004943
+UBERON:0007774,secondary dentition,A14.254.237,gilda,D019229,"Dentition, Permanent",https://bioregistry.io/mesh:D019229
+UBERON:0007776,unerupted tooth,A14.254.860.715,gilda,D014097,"Tooth, Unerupted",https://bioregistry.io/mesh:D014097
+UBERON:0007799,mixed dentition,A14.254.229,gilda,D003818,"Dentition, Mixed",https://bioregistry.io/mesh:D003818
+UBERON:0008274,mollusc venom,D24.185.926.580.590,,,,
+UBERON:0008280,cnidarian venom,D24.185.926.580.230,gilda,D003064,Cnidarian Venoms,https://bioregistry.io/mesh:D003064
+UBERON:0008281,tooth bud,A14.254.900.720,,,,
+UBERON:0008337,inguinal part of abdomen,A01.047.365,,,,
+UBERON:0008930,somatosensory cortex,A08.186.211.730.885.213.670.675,gilda,D013003,Somatosensory Cortex,https://bioregistry.io/mesh:D013003
+UBERON:0009976,hypothalamo-hypophyseal system,A06.407.747.357,gilda,D007030,Hypothalamo-Hypophyseal System,https://bioregistry.io/mesh:D007030
+UBERON:0009977,natal tooth,A14.254.860.700.500,gilda,D009306,Natal Teeth,https://bioregistry.io/mesh:D009306
+UBERON:0010010,basal nucleus of telencephalon,A08.186.211.730.885.105.880.100,,,,
+UBERON:0010011,collection of basal ganglia,A08.186.211.730.885.105,,,,
+UBERON:0010523,microcirculatory vessel,A07.231.432,,,,
+UBERON:0010544,metacarpus skeleton,A02.835.232.087.535,,,,
+UBERON:0010996,articular cartilage of joint,A02.165.165,,,,
+UBERON:0011924,postganglionic autonomic fiber,A08.663.542.100,gilda,D001338,"Autonomic Fibers, Postganglionic",https://bioregistry.io/mesh:D001338
+UBERON:0011925,preganglionic autonomic fiber,A08.663.542.122,gilda,D001339,"Autonomic Fibers, Preganglionic",https://bioregistry.io/mesh:D001339
+UBERON:0011926,postganglionic sympathetic fiber,A08.663.542.075.800,gilda,D017779,"Sympathetic Fibers, Postganglionic",https://bioregistry.io/mesh:D017779
+UBERON:0011929,postganglionic parasympathetic fiber,A08.663.542.100.700,gilda,D017777,"Parasympathetic Fibers, Postganglionic",https://bioregistry.io/mesh:D017777
+UBERON:0012111,diastema,A14.254.333,gilda,D003970,Diastema,https://bioregistry.io/mesh:D003970
+UBERON:0012449,mechanoreceptor,A08.800.550.700.500,gilda,D008465,Mechanoreceptors,https://bioregistry.io/mesh:D008465
+UBERON:0012451,sensory receptor,A08.800.550.700,gilda,D011984,Sensory Receptor Cells,https://bioregistry.io/mesh:D011984
+UBERON:0013076,snake venom,D24.185.965.850,gilda,D012910,Snake Venoms,https://bioregistry.io/mesh:D012910
+UBERON:0013106,elapid venom,D24.185.965.850.325,gilda,D004546,Elapid Venoms,https://bioregistry.io/mesh:D004546
+UBERON:0013110,hydrophid venom,D24.185.965.850.480,,,,
+UBERON:0013112,viper venom,D24.185.965.850.960,gilda,D014757,Viper Venoms,https://bioregistry.io/mesh:D014757
+UBERON:0013201,olfactory pathway,A08.186.211.577.699,gilda,D009833,Olfactory Pathways,https://bioregistry.io/mesh:D009833
+UBERON:0014856,cysticercus stage,B01.500.736.215.895.286,,,,
+UBERON:0016403,thoracic wall,A01.911.850,gilda,D035441,Thoracic Wall,https://bioregistry.io/mesh:D035441
+UBERON:0016482,dental plaque,A12.300.300,gilda,D003773,Dental Plaque,https://bioregistry.io/mesh:D003773
+UBERON:0016525,frontal lobe,A08.186.211.730.885.213.270,gilda,D005625,Frontal Lobe,https://bioregistry.io/mesh:D005625
+UBERON:0018229,renin-angiotensin system,G06.535.805,gilda,D012084,Renin-Angiotensin System,https://bioregistry.io/mesh:D012084
+UBERON:0018377,molar tooth 3,A14.254.860.525.500,,,,
+UBERON:0018391,chemoreceptor,A08.800.550.700.120,,,,
+UBERON:0034972,jugular body,A08.800.550.700.120.600.350,,,,
+UBERON:0034979,nonchromaffin paraganglion,A08.800.550.700.120.600,,,,
+UBERON:0035017,nociceptor,A08.800.550.700.650,gilda,D009619,Nociceptors,https://bioregistry.io/mesh:D009619
+UBERON:0035018,thermoreceptor,A08.800.550.700.840,gilda,D013823,Thermoreceptors,https://bioregistry.io/mesh:D013823
+UBERON:0035642,laryngeal nerve,A08.800.050.050.925.450,tree,D007823,Laryngeal Nerves,https://bioregistry.io/mesh:D007823
+UBERON:0035652,fibular nerve,A08.800.800.720.450.760.640,tree,D010543,Peroneal Nerve,https://bioregistry.io/mesh:D010543
+UBERON:0035803,extrapyramidal tract system,A08.186.854.253,tree,D005116,Extrapyramidal Tracts,https://bioregistry.io/mesh:D005116
+UBERON:0036185,Sertoli cell barrier,G06.535.166.330.100,,,,
